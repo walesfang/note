@@ -4,7 +4,7 @@ https://spring.io/guides/topicals/spring-security-architecture/
 key words:
 Authentification, Authorization, Web Security
 AuthentificationManager, ProviderManager, AuthentificationProvider
-AccessDecisionManager, List<DecisionVoter>, decide method (Authentification, Object, List<ConfigureAttribute>)
+AccessDecisionManager, List of DecisionVoter -> decide method (Authentification, Object, List of ConfigureAttribute)
 
 
 HTTPS analysis
