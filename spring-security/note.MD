@@ -9,3 +9,6 @@ AccessDecisionManager, List of DecisionVoter -> decide method (Authentification,
 
 HTTPS analysis
 https://www.qcloud.com/community/article/207618001486449512
+
+JVM
+https://codejuan.gitbooks.io/java_interview/content/jvm/classloader/classloader.html
