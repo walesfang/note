@@ -19,3 +19,6 @@ http://blog.csdn.net/xieyuooo/article/details/6553588
 聊聊并发
 http://www.infoq.com/cn/articles/ftf-java-volatile
 
+hbase 调优
+http://hbasefly.com/2016/08/09/hbase-cms-gc/
+
