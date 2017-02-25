@@ -13,5 +13,9 @@ https://www.qcloud.com/community/article/207618001486449512
 JVM
 https://codejuan.gitbooks.io/java_interview/content/jvm/classloader/classloader.html
 
+JVM
+http://blog.csdn.net/xieyuooo/article/details/6553588
+
 聊聊并发
 http://www.infoq.com/cn/articles/ftf-java-volatile
+
